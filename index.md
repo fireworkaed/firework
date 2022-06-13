@@ -11,6 +11,25 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
 <fieldset id="cliente"><legend>Identificação do cliente</legend>
     <p><label for="cNome">Nome</label> <input type="text" name="tNome" id="cNome" size="20" maxlength="30" placeholder="Nome Completo"</p>
     <p><label for="cMail">E-Mail</label> <input type="email" name="tMail" id="cMail" size="20" maxlength="40"/></p>
@@ -33,23 +52,6 @@ Syntax highlighted code block
      Orçamento:
 </fieldset>
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
