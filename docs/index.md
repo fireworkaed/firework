@@ -9,19 +9,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+<fieldset id="cliente"><legend>Identificação do cliente</legend>
+    <p><label for="cNome">Nome</label> <input type="text" name="tNome" id="cNome" size="20" maxlength="30" placeholder="Nome Completo"</p>
+    <p><label for="cMail">E-Mail</label> <input type="email" name="tMail" id="cMail" size="20" maxlength="40"/></p>
+    <p>Telefone: </p>
+</fieldset id="sexo"><legend>Sexo</legend>
+        <input type="radio" name="tSexo" id="Cmasc"/> <label for="Cmasc">Masculino</label>
+        <input type="radio" name="tSexo" id="Cfem"/> <label for="Cfem">Feminino</label></fieldset>
+    <p>Data de Nascimento:</p>
+</fieldset>
 
-# Header 1
-## Header 2
-### Header 3
+<fieldset id="endereco"><legend>Endereço do Cliente</legend>
+    Logradouro:
+    Número:
+    Estado:
+    Cidade:
+</fieldset>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+<fieldset id="orçamento"><legend>Orçamento do Cliente</legend>
+     Grau de Urgência:
+     Orçamento:
+</fieldset>
 
 [Link](url) and ![Image](src)
 ```
