@@ -30,29 +30,6 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
-<fieldset id="cliente"><legend>Identificação do cliente</legend>
-    <p><label for="cNome">Nome</label> <input type="text" name="tNome" id="cNome" size="20" maxlength="30" placeholder="Nome Completo"</p>
-    <p><label for="cMail">E-Mail</label> <input type="email" name="tMail" id="cMail" size="20" maxlength="40"/></p>
-    <p>Telefone: </p>
-</fieldset id="sexo"><legend>Sexo</legend>
-        <input type="radio" name="tSexo" id="Cmasc"/> <label for="Cmasc">Masculino</label>
-        <input type="radio" name="tSexo" id="Cfem"/> <label for="Cfem">Feminino</label></fieldset>
-    <p>Data de Nascimento:</p>
-</fieldset>
-
-<fieldset id="endereco"><legend>Endereço do Cliente</legend>
-    Logradouro:
-    Número:
-    Estado:
-    Cidade:
-</fieldset>
-
-<fieldset id="orçamento"><legend>Orçamento do Cliente</legend>
-     Grau de Urgência:
-     Orçamento:
-</fieldset>
-
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fireworkaed/firework/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
