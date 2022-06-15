@@ -1,0 +1,264 @@
+@charset "UTF-8";
+
+ .mediaViewInfo {
+    --web-view-name: Firework arte e design;
+    --web-view-id: Firework_arte_e_design;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Firework_arte_e_design;
+}
+* {
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: 1px dashed red;
+    min-width: 320;
+    max-width: 800;
+    margin: auto;
+}
+#Firework_arte_e_design_1 {
+    position: absolute;
+    width: 1080px;
+    height: 1988px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Firework arte e design;
+    --web-view-id: Firework_arte_e_design;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+    outline: 1px dashed red;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#Kitsch_retro {
+    left: 1079px;
+    top: 855px;
+    position: absolute;
+    overflow: visible;
+    width: 301px;
+    height: 300px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#Caminho_3 {
+    fill: rgba(151,114,251,1);
+}
+.Caminho_3 {
+    filter: drop-shadow(7px 7px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 1098px;
+    height: 571.123px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Caminho_4 {
+    fill: rgba(151,114,251,1);
+}
+.Caminho_4 {
+    overflow: visible;
+    position: absolute;
+    width: 1080px;
+    height: 552.917px;
+    left: 0px;
+    top: 1435.206px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_5 {
+    position: absolute;
+    width: 367px;
+    height: 367px;
+    left: 146px;
+    top: 157px;
+    overflow: visible;
+}
+#Caminho_5_p {
+    fill: url(#Caminho_5_p);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Caminho_5_p {
+    overflow: visible;
+    position: absolute;
+    width: 367px;
+    height: 367px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Firework {
+    left: 61px;
+    top: 128px;
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arkit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 110px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_4 {
+    position: absolute;
+    width: 656.285px;
+    height: 146.784px;
+    left: 211.92px;
+    top: 620px;
+    overflow: visible;
+}
+#Caminho_6 {
+    fill: rgba(118,74,241,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Caminho_6 {
+    filter: drop-shadow(7px 3px 6px rgba(0, 0, 0, 0.161));
+    overflow: visible;
+    position: absolute;
+    width: 674.285px;
+    height: 164.784px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Fale_agora_com_a_gente {
+    left: 35.08px;
+    top: 31px;
+    position: absolute;
+    overflow: visible;
+    width: 587px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arkit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    color: rgba(255,255,255,1);
+}
+#Grupo_1 {
+    position: absolute;
+    width: 215px;
+    height: 289px;
+    left: 140px;
+    top: 957px;
+    overflow: visible;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Firework_arte_e_design_3.html;
+    cursor: pointer;
+}
+#pyramid {
+    position: absolute;
+    width: 215px;
+    height: 214px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Conhea {
+    left: 9px;
+    top: 238px;
+    position: absolute;
+    overflow: visible;
+    width: 198px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arkit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(68,68,68,1);
+}
+#Grupo_2 {
+    position: absolute;
+    width: 213px;
+    height: 288px;
+    left: 433.5px;
+    top: 958px;
+    overflow: visible;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Firework_arte_e_design_2.html;
+    cursor: pointer;
+}
+#combinatorics {
+    position: absolute;
+    width: 213px;
+    height: 213px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Objetivo {
+    left: 10.5px;
+    top: 237px;
+    position: absolute;
+    overflow: visible;
+    width: 193px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arkit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(68,68,68,1);
+}
+#Grupo_3 {
+    position: absolute;
+    width: 215px;
+    height: 290px;
+    left: 725px;
+    top: 956px;
+    overflow: visible;
+    --web-animation: fadein 0.30000001192092896s ease-out;
+    --web-action-type: page;
+    --web-action-target: Firework_arte_e_design_4.html;
+    cursor: pointer;
+}
+#fractal {
+    position: absolute;
+    width: 215px;
+    height: 215px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Contato {
+    left: 19px;
+    top: 239px;
+    position: absolute;
+    overflow: visible;
+    width: 179px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arkit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(68,68,68,1);
+}
