@@ -1,1 +1,1 @@
-# firework é uma empresa de marketing e propaganda.
+# Firework é uma empresa de marketing e propaganda.
